@@ -1,0 +1,14 @@
+---
+permalink: reference-limitations.html
+sidebar: sidebar
+keywords: limitations
+summary: "You should be aware of the limitations before using BlueXP software updates."
+---
+= Known limitations
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Known limitations identify functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
+
+

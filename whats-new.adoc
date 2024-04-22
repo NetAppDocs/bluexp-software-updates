@@ -1,0 +1,17 @@
+---
+permalink: whats-new.html
+sidebar: sidebar
+keywords: software updates, upgrade
+summary: 'Learn what’s new with BlueXP software updates.'
+---
+= What’s new with BlueXP softwarre updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn what’s new in BlueXP software updates.
+
+== 19 June 2024
+
+
+

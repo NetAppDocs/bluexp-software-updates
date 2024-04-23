@@ -10,7 +10,7 @@ settings:
 sidebar: 
   entries:
   - title: BlueXP software updates
-      url: /index.html
+    url: /index.html
   - title: Release notes
       entries:
         - title: What's new

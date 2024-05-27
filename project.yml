@@ -16,6 +16,18 @@ sidebar:
         url: /whats-new.html
       - title: Known issues
         url: /known-issues.html
+  - title: Get started
+    entries:
+      - title: Learn about ONTAP updates 
+        url: /software-updates.html
+      - title: Prerequisites
+        url: /prerequisites-ontap-update.html
+      - title: Quick start
+        url: /software-updates.htmlquick-start-ontap-update.html
+      - title: Access BlueXP software updates
+        url: /login-software-updates.html
+      - title: FAQs
+        url: /software-updates-faq.html
   - title: Knowledge and support
     entries:
       - title: Register for support

@@ -1,0 +1,14 @@
+---
+permalink: quick-start-ontap-update.html
+sidebar: sidebar
+keywords: get started with ontap update, ontap update quick start, get started with bluexp software updates, software update quick start guide
+summary: Start updating your ONTAP storage system seamlessly and quickly.
+---
+= Quick start to update ONTAP using BlueXP software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+
+
+

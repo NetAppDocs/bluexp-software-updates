@@ -1,8 +1,8 @@
 ---
 permalink: known-issues.html
 sidebar: sidebar
-keywords: limitations
-summary: "Be aware of the known issues and limitations before updating your ONTAP storage system using BlueXP software updates."
+keywords: limitations, blockers, issues, warnings
+summary: Be aware of the known issues and limitations before updating your ONTAP storage system using BlueXP software updates.
 ---
 = Known issues in BlueXP software updates
 :icons: font

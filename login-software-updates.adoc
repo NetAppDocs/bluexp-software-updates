@@ -1,0 +1,14 @@
+---
+permalink: login-software-updates.html
+sidebar: sidebar
+keywords: bluexp login, software updates log in
+summary: Log in and access the bluexp software updates service.
+---
+= Access BlueXP software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+
+
+

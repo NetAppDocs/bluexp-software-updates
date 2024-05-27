@@ -1,0 +1,22 @@
+---
+permalink: software-updates.html
+sidebar: sidebar
+keywords: ONTAP 9.8, ONTAP update, supported systems for ONTAP update, ONTAP version, software updates benefits
+summary: Seamlessly update your ONTAP storage system to take advantage of the new and enhanced features by using the BlueXP software updates.
+---
+= Learn about BlueXP software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can upgrade your ONTAP storage system to take advantage of the new and enhanced features by using the BlueXP software updates. This can help you reduce costs, accelerate critical workloads, and improve security.
+
+== Supported systems
+
+ONTAP systems: You can use the BlueXP software updates service only if you are running ONTAP 9.8 or the later version. If you are on an earlier version of ONTAP, you need to manually update your storage systems.
+
+== Benefits of using BlueXP software updates
+
+== Cost
+
+NetApp doesn’t charge you for using the service.

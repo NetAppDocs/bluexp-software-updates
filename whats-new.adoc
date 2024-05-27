@@ -2,7 +2,7 @@
 permalink: whats-new.html
 sidebar: sidebar
 keywords: software updates, ontap update
-summary: 'Understand about the new features and enhancements introduced in BlueXP software updates.'
+summary: Understand about the new features and enhancements introduced in BlueXP software updates.
 ---
 = What’s new in BlueXP software updates
 :icons: font

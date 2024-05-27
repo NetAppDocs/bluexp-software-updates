@@ -14,8 +14,8 @@ sidebar:
     entries:
       - title: What's new
         url: /whats-new.html
-      - title: Known limitations
-        url: /reference-limitations.html
+      - title: Known issues
+        url: /known-issues.html
   - title: Knowledge and support
     entries:
       - title: Register for support

@@ -1,10 +1,9 @@
 indexpage:
-  title: # Unquoted string 
-  lead: # Quoted string
-  summary: # Quoted string 
-  keywords: # Unquoted comma-delimited list of keywords 
+  title: BlueXP software updates documentation
+  lead: BlueXP software updates provides information about updating your storage system to the latest version of the operating system.
+  keywords: Software updates, updates, update ONTAP, upgrade
   tiles: 
-    # Tile definition 
+    # Tile definition   
     - title: # Quoted or unquoted string
       links: 
         # Link definition

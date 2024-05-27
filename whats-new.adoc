@@ -1,10 +1,10 @@
 ---
 permalink: whats-new.html
 sidebar: sidebar
-keywords: software updates, upgrade
-summary: 'Learn what’s new with BlueXP software updates.'
+keywords: software updates, ontap update
+summary: 'Understand about the new features and enhancements introduced in BlueXP software updates.'
 ---
-= What’s new with BlueXP softwarre updates
+= What’s new in BlueXP software updates
 :icons: font
 :imagesdir: ../media/
 
@@ -12,6 +12,11 @@ summary: 'Learn what’s new with BlueXP software updates.'
 Learn what’s new in BlueXP software updates.
 
 == 19 June 2024
+
+=== ONTAP update
+The BlueXP software updates service provides a seamless upgrade experience to users by mitigating risks, and ensuring customers can fully leverage ONTAP features.
+
+Learn more about BlueXP software updates
 
 
 

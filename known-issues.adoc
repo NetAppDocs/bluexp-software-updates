@@ -1,10 +1,10 @@
 ---
-permalink: reference-limitations.html
+permalink: known-issues.html
 sidebar: sidebar
 keywords: limitations
-summary: "You should be aware of the limitations before using BlueXP software updates."
+summary: "Be aware of the known issues and limitations before updating your ONTAP storage system using BlueXP software updates."
 ---
-= Known limitations
+= Known issues in BlueXP software updates
 :icons: font
 :imagesdir: ../media/
 

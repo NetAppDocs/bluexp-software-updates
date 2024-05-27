@@ -23,11 +23,21 @@ sidebar:
       - title: Prerequisites
         url: /prerequisites-ontap-update.html
       - title: Quick start
-        url: /software-updates.htmlquick-start-ontap-update.html
+        url: /quick-start-ontap-update.html
       - title: Access BlueXP software updates
         url: /login-software-updates.html
       - title: FAQs
         url: /software-updates-faq.html
+  - title: Use BlueXP software updates
+    entries:
+      - title: Choose ONTAP target version
+        url: /choose-ontap-98-later.html
+      - title: Fix ONTAP blocker and acknowledge warnings
+        url: /fix-blockers-warnings.html
+      - title: Complete ONTAP storage system update
+        url: /update-storage-system.html
+      - title: Validate the status of ONTAP storage system update
+        url: /validate-storage-system-update.html
   - title: Knowledge and support
     entries:
       - title: Register for support

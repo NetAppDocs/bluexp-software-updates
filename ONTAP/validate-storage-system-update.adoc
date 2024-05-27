@@ -1,0 +1,14 @@
+---
+permalink: validate-storage-system-update.html
+sidebar: sidebar
+keywords: validate status of ONTAP update, track status of ONTAP update
+summary: Validate the status of your ONTAP update to decide the next steps that should be performed.
+---
+= Validate the status of ONTAP storage system update
+:icons: font    
+:imagesdir: ../media/
+
+[.lead]
+
+
+

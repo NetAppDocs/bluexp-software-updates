@@ -10,5 +10,5 @@ summary: Update your ONTAP storage system to take advantage of the new and enhan
 
 [.lead]
 
-
+Once you have fixed all the blockers, you can update your ONTAP storage system.
 

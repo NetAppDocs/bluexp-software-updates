@@ -2,7 +2,7 @@
 permalink: software-updates-faq.html
 sidebar: sidebar
 keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions
-summary: View the answers to the frequently asked questions about ONTAP update.
+summary: View the answers to the frequently asked questions about BlueXP software updates.
 ---
 = FAQs for BlueXP software updates
 :icons: font

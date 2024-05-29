@@ -1,7 +1,7 @@
 ---
 permalink: software-updates.html
 sidebar: sidebar
-keywords: ONTAP 9.8, ONTAP update, supported systems for ONTAP update, ONTAP version, software updates benefits
+keywords: ontap 9.8, ontap update, supported systems for ontap update, ontap version, software updates benefits
 summary: Seamlessly update your ONTAP storage system to take advantage of the new and enhanced features by using the BlueXP software updates.
 ---
 = Learn about BlueXP software updates
@@ -13,10 +13,20 @@ You can upgrade your ONTAP storage system to take advantage of the new and enhan
 
 == Supported systems
 
-ONTAP systems: You can use the BlueXP software updates service only if you are running ONTAP 9.8 or the later version. If you are on an earlier version of ONTAP, you need to manually update your storage systems.
+*ONTAP systems*: You can use the BlueXP software updates service only if you are running ONTAP 9.8 or the later version. If you are on an earlier version of ONTAP, you need to link:https://docs.netapp.com/us-en/ontap/upgrade/index.html[manually update your storage systems].
 
 == Benefits of using BlueXP software updates
 
-== Cost
+* Provides a seamless update experience by providing a unified platform to view all clusters and vulnerabilities.
+* Ability to understand the benefits and risks before updating to the selected ONTAP version.
+* Provides an new end-to-end self-service experience of upgrade advisor in BlueXP that can act as a landing spot for any upgrade nudge.
+* Automatically prechecks ONTAP, OFFTAP, and hardware compatibility to ensure upgrades will be executed safely.
+* Remediation automation or guidance to address any issues during the upgrade process.
 
+* *Seamless Upgrade Process*: Provides a unified view to see all clusters and vulnerabilities, allows you to select the target version and compare it with the existing version, schedule upgrades, engage support or managed services if needed, and execute upgrades.
+* *Upgrade Advisor Integration Enhancement*: Provides a new end-to-end self-service experience of upgrade advisor in BlueXP that can act as a landing spot for any upgrade nudge.
+* *Automated Pre-checks*: Automatically prechecks ONTAP, OFFTAP, and hardware compatibility to ensure upgrades will be executed safely.
+* *Mid-upgrade or Precheck Issue Resolution*: Remediation automation or guidance to address any issues during the upgrade process.
+
+== Cost
 NetApp doesn’t charge you for using the service.

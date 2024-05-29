@@ -2,13 +2,17 @@
 permalink: fix-blockers-warnings.html
 sidebar: sidebar
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings
-summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to complete your ONTAP update.
+summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to complete the ONTAP update.
 ---
 = Fix ONTAP blocker and acknowledge warnings
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
+After you have identified the target version of ONTAP, you should fix the blockers and acknowledge warnings before updating the ONTAP storage system.
 
+On selecting the target version and starting the update, the list of blockers and warnings are displayed. 
+
+NOTE: You must fix the blockers to proceed with the update.
 
 

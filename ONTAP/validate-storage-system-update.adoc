@@ -10,5 +10,7 @@ summary: Validate the status of your ONTAP update to decide the next steps that 
 
 [.lead]
 
+After the ONTAP update process is complete, you should validate to check the status of the update.
 
+.Steps
 

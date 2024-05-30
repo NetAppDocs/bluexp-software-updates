@@ -10,5 +10,16 @@ summary: Update your ONTAP storage system to take advantage of the new and enhan
 
 [.lead]
 
-Once you have fixed all the blockers, you can update your ONTAP storage system.
+After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can update your ONTAP storage system.
 
+.Steps
+
+. From the BlueXP left navigation, select *Health > Software updates*.
++
+The list of cluster that require an software update is displayed. 
+. Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:choose-ontap-98-later.html[Choose ONTAP target version 9.8 or later].
+. Fix and acknowledge the ONTAP blockers. For information about fixing blockers, see link:fix-blockers-warnings.html[Fix and acknowledge ONTAP blockers].
+. Read and accept the End user license agreement.
++
+Wait for the ONTAP image to be retrieved.
+. Click *Install Update* to complete the update process.

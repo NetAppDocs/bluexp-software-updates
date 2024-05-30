@@ -4,15 +4,32 @@ sidebar: sidebar
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings
 summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to complete the ONTAP update.
 ---
-= Fix ONTAP blocker and acknowledge warnings
+= Fix and acknowledge ONTAP blockers
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
-After you have identified the target version of ONTAP, you should fix the blockers and acknowledge warnings before updating the ONTAP storage system.
+After you have identified the ONTAP target version for your storage system, you should fix and acknowledge the blockers and be aware of the warnings before updating the ONTAP storage system.
 
-On selecting the target version and starting the update, the list of blockers and warnings are displayed. 
+.Steps
 
-NOTE: You must fix the blockers to proceed with the update.
+. From the BlueXP left navigation, select *Health > Software updates*.
++
+The list of cluster that require an software update is displayed. 
+. Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:choose-ontap-98-later.html[Choose ONTAP target version 9.8 or later].
+. After you have decided on the ONTAP target version, click *Start update* to initiate the update process.
++
+The list of blockers and warnings are displayed.
+. Select the blocker and click *Fix* to fix the blocker.
+. Select the blockers that have been fixed and click *Acknowledge selected* to acknowledge that that blockers have been fixed.
+
+NOTE: You must fix and acknowledge all the blockers to proceed with the update.
+
+[start=6]
+. Click *Warnings* tab to review the warnings for the software update.
+. Click *Acknowledge* tab to view the blockers that have been fixed.
+. Click *Continue to update* to proceed with the update process.
+
+
 
 

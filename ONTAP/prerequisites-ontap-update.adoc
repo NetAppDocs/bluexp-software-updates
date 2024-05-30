@@ -9,6 +9,15 @@ summary: Review the prerequisites and requirements before proceeding with your O
 :imagesdir: ../media/
 
 [.lead]
+Get started by verifying the readiness of your operational environment, login, network access, and web browser.
 
+To use BlueXP software updates, you should ensure that your environment meets all requirements.
 
+* Valid Blue XP account should be available.
+* Working environment is set up in Blue XP.
+* Administrator privileges are available to perform software update using System Manager.
+* Administrator credentials are available for the desired cluster while performing software update. 
+* All the nodes in the cluster are sending AutoSupport data.
+* All nodes should be running on ONTAP 9.8 or later versions.
+* All nodes should not be in a MetroCluster configuration. 
 

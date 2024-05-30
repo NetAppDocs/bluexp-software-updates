@@ -1,6 +1,6 @@
 ---
-permalink: known-issues.html
 sidebar: sidebar
+permalink: release-notes/known-issues.html
 keywords: limitations, blockers, issues, warnings
 summary: Be aware of the known issues and limitations before updating your ONTAP storage system using BlueXP software updates.
 ---

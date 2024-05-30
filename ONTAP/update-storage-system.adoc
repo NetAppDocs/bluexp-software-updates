@@ -1,6 +1,6 @@
 ---
-permalink: update-storage-system.html
 sidebar: sidebar
+permalink: ontap/update-storage-system.html
 keywords: update ontap storage system
 summary: Update your ONTAP storage system to take advantage of the new and enhanced features.
 ---

@@ -1,6 +1,6 @@
 ---
-permalink: fix-blockers-warnings.html
 sidebar: sidebar
+permalink: ontap/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings
 summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to complete the ONTAP update.
 ---

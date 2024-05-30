@@ -1,6 +1,6 @@
 ---
-permalink: choose-ontap-98-later.html
 sidebar: sidebar
+permalink: ontap/choose-ontap-98-later.html
 keywords: choose ontap target version, ontap update recommendations, identify ontap target version
 summary: Understand the benefits and risks of the each ONTAP version before upgrading your ONTAP storage system.
 ---

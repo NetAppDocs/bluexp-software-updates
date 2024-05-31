@@ -12,7 +12,7 @@ summary: View the answers to the frequently asked questions about BlueXP softwar
 
 This FAQ can help if you're just looking for a quick answer to a question.
 
-== Access to BlueXP operational resiliency
+== Access to BlueXP software updates
 
 *What's the BlueXP software updates URL?*
 For the URL, in a browser, enter: https://console.bluexp.netapp.com/

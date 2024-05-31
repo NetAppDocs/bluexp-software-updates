@@ -1,13 +1,38 @@
 indexpage:
   title: BlueXP software updates documentation
-  lead: BlueXP software updates provides information about updating your storage system to the latest version of the operating system.
-  keywords: Software updates, updates, update ONTAP, upgrade
+  lead: The BlueXP software updates service enables customers to streamline ONTAP updates. It automates the assessment, planning, and execution processes.
+  keywords: software updates, update ONTAP, upgrade ONTAP, ONTAP version, ONTAP 9.8
   tiles: 
     # Tile definition   
-    - title: # Quoted or unquoted string
+    - title: Get started
       links: 
-        # Link definition
-        - title: # Quoted or unquoted string
-          url: # Path to target
-        # Next link on this tile (title/url pair)
-    # Next tile on this page (title/links)
+      - title: Learn about BlueXP software updates
+        url: /get-started/software-updates.html
+      - title: What's new in BlueXP software updates
+        url: /release-notes/whats-new.html
+      - title: Quick start
+        url: /get-started/quick-start-ontap-update.html
+      - title: Prerequisites
+        url: /get-started/prerequisites-ontap-update.html
+      - title: Log in to BlueXP software updates
+        url: /get-started/login-software-updates.html
+      - title: FAQ
+        url: /get-started/software-updates-faq.html
+    - title: Use BlueXP economic efficiency
+      links:
+      - title: Choose ONTAP target version 9.8 or later
+        url: /ontap/choose-ontap-98-later.html 
+      - title: Fix and acknowledge ONTAP blockers
+        url: /ontap/fix-blockers-warnings.html
+      - title: Complete ONTAP storage system update
+        url: /ontap/update-storage-system.html
+      - title: Validate the status of ONTAP storage system update
+        url: /ontap/validate-storage-system-update.html
+    - title: Blogs & community
+      links:
+      - title: NetApp Community
+        url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+      - title: Cloud Tiering blog
+        url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+      - title: Cloud webinars
+        url: https://bluexp.netapp.com/events       

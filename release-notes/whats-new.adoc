@@ -16,7 +16,7 @@ Learn what’s new in BlueXP software updates.
 === ONTAP update
 The BlueXP software updates service provides a seamless upgrade experience to users by mitigating risks, and ensuring customers can fully leverage ONTAP features.
 
-link:software-updates.html[Learn more about BlueXP software updates]
+Learn more about link:../get-started/software-updates.html[BlueXP software updates]
 
 
 

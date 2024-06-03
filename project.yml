@@ -1,5 +1,5 @@
 settings:
-  name: BlueXP software docs
+  name: BlueXP software updates
   platform: cloud
   internal:
     pdf_enabled: true
@@ -9,7 +9,7 @@ settings:
 
 sidebar: 
   entries:
-  - title: BlueXP software updates
+  - title: BlueXP software updates docs
     url: /index.html
   - section: release-notes
   - section: get-started

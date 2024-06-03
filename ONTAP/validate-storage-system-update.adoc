@@ -10,7 +10,10 @@ summary: Validate the status of your ONTAP update to decide the next steps that 
 
 [.lead]
 
-After the ONTAP update process is complete, you should validate to check the status of the update.
+After the ONTAP update process is complete, you should validate to check the status of the ONTAP update.
 
 .Steps
+
+. From the BlueXP left navigation, select *Health > Software updates*.
+. Click the *History* tab to view the status of the ONTAP update.
 

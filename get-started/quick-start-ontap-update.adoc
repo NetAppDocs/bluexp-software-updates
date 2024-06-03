@@ -32,6 +32,7 @@ You should complete all the tasks to update the ONTAP storage system.
 [role="quick-margin-para"]
 After you update the ONTAP storage system, here's what you might do next. 
 
+[role="quick-margin-para"]
 link:../ontap/validate-storage-system-update.html[Validate the status of ONTAP storage system update].
 
 

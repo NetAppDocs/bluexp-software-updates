@@ -9,8 +9,7 @@ summary: Update your ONTAP storage system to take advantage of the new and enhan
 :imagesdir: ../media/
 
 [.lead]
-
-After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can update your ONTAP storage system.
+After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can complete the update of your ONTAP storage system.
 
 .Steps
 

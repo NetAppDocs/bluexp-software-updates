@@ -4,7 +4,7 @@ permalink: get-started/software-updates-faq.html
 keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions
 summary: View the answers to the frequently asked questions about BlueXP software updates.
 ---
-= FAQs for BlueXP software updates
+= Frequently asked questions for BlueXP software updates
 :icons: font
 :imagesdir: ../media/
 
@@ -15,9 +15,11 @@ This FAQ can help if you're just looking for a quick answer to a question.
 == Access to BlueXP software updates
 
 *What's the BlueXP software updates URL?*
+
 For the URL, in a browser, enter: https://console.bluexp.netapp.com/
 
 == Licensing
 
 *Do you need a license to use BlueXP software updates?*
+
 A NetApp License File (NLF) is not required. 

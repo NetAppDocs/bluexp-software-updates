@@ -9,7 +9,9 @@ summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to 
 :imagesdir: ../media/
 
 [.lead]
-After you have identified the ONTAP target version for your storage system, you should fix and acknowledge the blockers and be aware of the warnings before updating the ONTAP storage system.
+After you have identified the ONTAP target version for your ONTAP storage system, you should fix and acknowledge all blockers and review the warnings before updating the ONTAP storage system.
+
+Fixing and acknowledging all blockers is mandatory and ensures a seamless software update process.
 
 .Steps
 
@@ -26,7 +28,7 @@ The list of blockers and warnings are displayed.
 NOTE: You must fix and acknowledge all the blockers to proceed with the update.
 
 [start=6]
-. Click *Warnings* tab to review the warnings for the software update.
+. Click *Warnings* tab to review the warnings before proceeding with the software update.
 . Click *Acknowledge* tab to view the blockers that have been fixed.
 . Click *Continue to update* to proceed with the update process.
 

@@ -11,13 +11,16 @@ summary: Understand about the new features and enhancements introduced in BlueXP
 [.lead]
 Learn what’s new in BlueXP software updates.
 
+tag::whats-new[]
+
 == 19 June 2024
 
 === ONTAP update
 The BlueXP software updates service provides a seamless upgrade experience to users by mitigating risks, and ensuring customers can fully leverage ONTAP features.
 
-Learn more about link:../get-started/software-updates.html[BlueXP software updates]
+Learn more about link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html[BlueXP software updates^].
 
+end::whats-new[]
 
 
 

@@ -30,9 +30,9 @@ indexpage:
         url: /ontap/validate-storage-system-update.html
     - title: Blogs & community
       links:
-    - title: NetApp Community
-      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
-    - title: Cloud webinars
-      url: https://bluexp.netapp.com/events    
+      - title: NetApp Community
+        url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+      - title: Cloud webinars
+        url: https://bluexp.netapp.com/events    
      
     

@@ -18,6 +18,6 @@ To use BlueXP software updates, you should ensure that your environment meets al
 * Administrator privileges are available to perform software update using System Manager.
 * Administrator credentials are available for the desired cluster while performing software update. 
 * All the nodes in the cluster are sending AutoSupport data.
-* All nodes should be running on ONTAP 9.8 or later versions.
+* All nodes should be running on ONTAP 9.10 or later versions.
 * Nodes should not be in a MetroCluster configuration. 
 

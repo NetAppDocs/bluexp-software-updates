@@ -16,3 +16,5 @@ After the ONTAP update process is complete, you should check the status of the O
 . From the BlueXP left navigation, select *Health > Software updates*.
 . Click the *History* tab to view the status of the ONTAP update.
 
+NOTE: It takes 2 to 3 hours for the cluster to reflect in the history tab.
+

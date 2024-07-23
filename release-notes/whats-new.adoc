@@ -13,7 +13,7 @@ Learn what’s new in BlueXP software updates.
 
 // tag::whats-new[]
 
-== 19 June 2024
+== 07 August 2024
 
 === ONTAP update
 

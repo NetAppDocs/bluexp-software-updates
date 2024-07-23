@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar
-permalink: ontap/choose-ontap-98-later.html
+permalink: ontap/choose-ontap-910-later.html
 keywords: choose ontap target version, ontap update recommendations, identify ontap target version
 summary: Understand the benefits and risks of the each ONTAP version before upgrading your ONTAP storage system.
 ---
-= Choose ONTAP target version 9.8 or later
+= Choose ONTAP target version 9.10 or later
 :icons: font
 :imagesdir: ../media/
 
@@ -14,7 +14,7 @@ Before choosing the ONTAP version for the storage system, it is very important t
 
 You can choose the target version and compare it with the current version to understand the benefits of updating to the specific version on ONTAP. You can also see the risks that will be resolved and the new risks (if any) that will arise on updating to the specific version of ONTAP.
 
-NOTE: You can use this feature only if you are running ONTAP 9.8 or later versions.
+NOTE: You can use this feature only if you are running ONTAP 9.10 or later versions.
 
 .Steps
 

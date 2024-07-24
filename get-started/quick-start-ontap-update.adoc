@@ -23,7 +23,7 @@ link:../get-started/prerequisites-ontap-update.html[Ensure your environment meet
 You should complete all the tasks to update the ONTAP storage system.
 
 [role="quick-margin-list"]
-* link:../ontap/choose-ontap-98-later.html[Identify ONTAP target version].
+* link:../ontap/choose-ontap-910-later.html[Identify ONTAP target version].
 * link:../ontap/fix-blockers-warnings.html[Fix and acknowledge blockers].
 * link:../ontap/update-storage-system.html[ Complete ONTAP storage system updates].
 

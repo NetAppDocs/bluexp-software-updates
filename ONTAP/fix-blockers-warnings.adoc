@@ -18,7 +18,7 @@ Fixing and acknowledging all blockers is mandatory and ensures a seamless softwa
 . From the BlueXP left navigation, select *Health > Software updates*.
 +
 The list of cluster that require an software update is displayed. 
-. Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:choose-ontap-98-later.html[Choose ONTAP target version 9.10 or later].
+. Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:choose-ontap-910-later.html[Choose ONTAP target version 9.10 or later].
 . After you have decided on the ONTAP target version, click *Start update* to initiate the update process.
 +
 The list of blockers and warnings are displayed.

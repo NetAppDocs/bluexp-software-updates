@@ -13,8 +13,8 @@ Get started by verifying the readiness of your operational environment, login, n
 
 To use BlueXP software updates, you should ensure that your environment meets all requirements.
 
-* Valid Blue XP account should be available.
-* Working environment is set up in Blue XP.
+* Valid BlueXP account should be available.
+* Working environment is set up in BlueXP.
 * Administrator privileges are available to perform software update using System Manager.
 * Administrator credentials are available for the desired cluster while performing software update. 
 * All the nodes in the cluster are sending AutoSupport data.

@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: ontap/validate-storage-system-update.html
+permalink: ONTAP/validate-storage-system-update.html
 keywords: validate status of ontap update, track status of ontap update
 summary: Validate the status of your ONTAP update to decide the next steps that should be performed.
 ---

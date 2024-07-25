@@ -16,7 +16,7 @@ To log in to BlueXP, you can use your NetApp Support Site credentials or you can
 
 .Steps
 
-. Open a web browser and go to the link:https://console.bluexp.netapp.com/[BlueXP console].
+. Open a web browser and go to the link:https://console.bluexp.netapp.com/[BlueXP console^].
 +
 The NetApp BlueXP login page appears.
 

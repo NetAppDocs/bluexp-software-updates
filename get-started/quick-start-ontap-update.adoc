@@ -23,9 +23,9 @@ link:../get-started/prerequisites-ontap-update.html[Ensure your environment meet
 You should complete all the tasks to update the ONTAP storage system.
 
 [role="quick-margin-list"]
-* link:../ontap/choose-ontap-910-later.html[Identify ONTAP target version].
-* link:../ontap/fix-blockers-warnings.html[Fix and acknowledge blockers].
-* link:../ontap/update-storage-system.html[ Complete ONTAP storage system updates].
+* link:../ONTAP/choose-ontap-910-later.html[Identify ONTAP target version].
+* link:../ONTAP/fix-blockers-warnings.html[Fix and acknowledge blockers].
+* link:../ONTAP/update-storage-system.html[ Complete ONTAP storage system updates].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png[Three] What's next?
 

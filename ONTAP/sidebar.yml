@@ -2,10 +2,10 @@ section: ontap
 title: Use BlueXP software updates 
 entries:
   - title: Choose ONTAP target version
-    url: /ontap/choose-ontap-910-later.html
+    url: /ONTAP/choose-ontap-910-later.html
   - title: Fix ONTAP blocker and acknowledge warnings
-    url: /ontap/fix-blockers-warnings.html
+    url: /ONTAP/fix-blockers-warnings.html
   - title: Complete ONTAP storage system update
-    url: /ontap/update-storage-system.html
+    url: /ONTAP/update-storage-system.html
   - title: Validate the status of ONTAP storage system update
-    url: /ontap/validate-storage-system-update.html
+    url: /ONTAP/validate-storage-system-update.html

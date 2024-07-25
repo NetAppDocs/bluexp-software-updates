@@ -15,7 +15,7 @@ The BlueXP software updates service enables customers to streamline ONTAP update
 
 == Supported systems
 
-=== ONTAP systems: 
+=== ONTAP systems
 
 You can complete the ONTAP update using BlueXP software updates service only if you are running on ONTAP 9.10 or later versions. 
 

@@ -25,7 +25,7 @@ The following information provides the software update process for different ONT
 |*Current ONTAP version*  | *Update process*
 
 |9.12 and above | All steps of ONTAP update happen within BlueXP.
-|9.10 to 9.12  | Preparation for ONTAP update happens within BlueXP Software updates screens. You will be navigated to System Manager to perform the actual ONTAP update. To execute all steps of ONTAP update within BlueXP, you need to set up a BlueXP connector.  
+|9.10 to 9.12  | Preparation for ONTAP update happens within BlueXP Software updates screens. You will be navigated to System Manager to perform the actual ONTAP update. To execute all steps of ONTAP update within BlueXP, you need to link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html[set up a connector].  
 |9.8 to 9.10  | Preparation for ONTAP update happens within BlueXP Software updates screens. You will be navigated to System Manager to perform the actual ONTAP update. 
 |Below 9.7 | Automated ONTAP update is not supported for this cluster. You need to update ONTAP manually. For more information, see link:https://docs.netapp.com/us-en/ontap/upgrade/index.html[manually update your storage systems].
 

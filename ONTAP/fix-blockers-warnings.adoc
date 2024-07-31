@@ -19,7 +19,7 @@ Fixing and acknowledging all blockers is mandatory and ensures a seamless softwa
 +
 The list of cluster that require an software update is displayed. 
 . Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:../ONTAP/choose-ontap-910-later.html[Choose ONTAP target version 9.10 or later].
-. After you have decided on the ONTAP target version, click *Start update* to initiate the update process.
+. After you have decided on the ONTAP target version, click *Prepare for update* to initiate the update process.
 +
 The list of blockers and warnings are displayed.
 . Select the blocker to view the instructions to fix the blocker.

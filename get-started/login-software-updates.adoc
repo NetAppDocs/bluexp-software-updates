@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: get-started/login-software-updates.html
+keywords: bluexp login, software updates log in
+summary: Log in and access the BlueXP software updates service.
+---
+= Access BlueXP software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+
+You can use BlueXP software updates by logging in to NetApp BlueXP.
+
+To log in to BlueXP, you can use your NetApp Support Site credentials or you can sign up for a NetApp cloud login using your email and a password. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html[Learn more about logging in^].
+
+.Steps
+
+. Open a web browser and go to the link:https://console.bluexp.netapp.com/[BlueXP console^].
++
+The NetApp BlueXP login page appears.
+
+. Log in to BlueXP.
+. From the BlueXP left navigation, select *Health > Software updates.*

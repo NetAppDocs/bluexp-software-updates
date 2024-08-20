@@ -30,7 +30,7 @@ It takes 2 to 3 hours for the cluster to appear in the history tab. Once the ONT
 
 *Why am I seeing different screens for different updates?*
 
-This is due to the current ONTAP version and unavailability of BlueXP connector for clusters. A BlueXP connector performs the ONTAP update within BlueXP and does not require you to move out of BlueXP for an update. For information about the ONTAP update process for different versions of ONTAP, see link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html[Supported ONTAP systems].  
+This is due to the current ONTAP version and unavailability of BlueXP connector for clusters. A BlueXP connector performs the ONTAP update within BlueXP and does not require you to move out of BlueXP for an update. If you do not have a BlueXP connector, you will be redirected to System Manager and are required to re-enter the ONTAP cluster credentials. For information about the ONTAP update process for different versions of ONTAP, see link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html[Supported ONTAP systems].  
 
 *What do I need to discover clusters?*
 

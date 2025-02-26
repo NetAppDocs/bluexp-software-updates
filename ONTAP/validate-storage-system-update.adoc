@@ -9,7 +9,7 @@ summary: Validate the status of your ONTAP update to decide the next steps that 
 :imagesdir: ../media/
 
 [.lead]
-After the ONTAP update process is complete, you should check the status of the ONTAP update.
+You can use BlueXP software updates to validate the status of the ONTAP update.
 
 .Steps
 

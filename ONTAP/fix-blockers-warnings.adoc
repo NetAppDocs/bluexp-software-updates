@@ -4,7 +4,7 @@ permalink: ONTAP/fix-blockers-warnings.html
 keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings
 summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to complete the ONTAP update.
 ---
-= Fix and acknowledge ONTAP blockers
+= Fix all blockers using BlueXP software updates before an ONTAP upgrade
 :icons: font
 :imagesdir: ../media/
 

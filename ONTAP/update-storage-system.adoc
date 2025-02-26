@@ -4,12 +4,12 @@ permalink: ONTAP/update-storage-system.html
 keywords: update ontap storage system
 summary: Update your ONTAP storage system to take advantage of the new and enhanced features.
 ---
-= Complete ONTAP storage system update
+= Initiate the ONTAP update using BlueXP software updates
 :icons: font    
 :imagesdir: ../media/
 
 [.lead]
-After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can now complete the update of your ONTAP storage system.
+After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can now initiate the update of your ONTAP storage system.
 
 .Steps
 

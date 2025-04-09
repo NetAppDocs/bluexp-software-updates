@@ -16,4 +16,8 @@ Learn what’s new in BlueXP software updates.
 
 include::../_whatsnew/2024-08-07.adoc[]
 
+== 02 April 2025
+
+include::../_whatsnew/2025-04-02.adoc[]
+
 // end::whats-new[]

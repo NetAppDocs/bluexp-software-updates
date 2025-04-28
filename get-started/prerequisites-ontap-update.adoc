@@ -6,7 +6,7 @@ summary: Review the prerequisites and requirements before proceeding with your O
 ---
 = Prepare to update ONTAP using BlueXP software updates
 :icons: font
-:imagesdir: ./media/
+:imagesdir: ../media/
 
 [.lead]
 

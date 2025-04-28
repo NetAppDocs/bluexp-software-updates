@@ -16,15 +16,14 @@ To use BlueXP software updates, you should ensure that your environment meets al
 
 * A working environment is set up in BlueXP.
 * The appropriate BlueXP access role is assigned to the user reviewing or performing the software update processes. The following roles are available:
-  ** Org administrator
-  ** Folder or project administrator
-  ** Storage administrator
-  ** Storage Health Specialist
-  +
+** Org administrator
+** Folder or project administrator
+** Storage administrator
+** Storage Health Specialist
++
+link:https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
 
-  link:https://docs.netapp.com/us-en/bluexp/concept-iam-predefined-roles.html[Learn about BlueXP access roles^].
-  
-* Administrator credentials are available for the desired cluster while performing software update. 
+* Administrator credentials are available for the desired cluster while performing software update.
 * All the nodes in the cluster are sending AutoSupport data.
 * All nodes should be running on ONTAP 9.10 or later versions.
-* Nodes should not be in a MetroCluster configuration. 
+* Nodes should not be in a MetroCluster configuration.

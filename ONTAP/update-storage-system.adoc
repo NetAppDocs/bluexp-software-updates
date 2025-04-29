@@ -11,6 +11,13 @@ summary: Update your ONTAP storage system to take advantage of the new and enhan
 [.lead]
 After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can now initiate the update of your ONTAP storage system.
 
+[NOTE]
+=====
+Organization admin, Folder or project admin, or Storage admin
+=====
+
+ 
+
 .Steps
 
 . From the BlueXP left navigation, select *Health > Software updates*.

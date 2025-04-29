@@ -16,9 +16,9 @@ To use BlueXP software updates, you should ensure that your environment meets al
 
 * A working environment is set up in BlueXP.
 * The appropriate BlueXP access role is assigned to the user reviewing or performing the software update processes. The following roles are available:
-** Org administrator
-** Folder or project administrator
-** Storage administrator
+** Org admin
+** Folder or project admin
+** Storage admin
 ** Storage Health Specialist
 +
 link:https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]

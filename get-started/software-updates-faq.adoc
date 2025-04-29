@@ -35,3 +35,5 @@ This is due to the current ONTAP version and unavailability of BlueXP connector 
 *What do I need to discover clusters?*
 
 To perform ONTAP update for your desired cluster, you need the ONTAP cluster IP and the admin credentials for connecting to the cluster. As part of cluster discovery, you need to provide these details so that ONTAP update can be executed automatically. 
+
+You also need to have one of the following access roles: Org admin, Folder or project admin, or Storage admin.

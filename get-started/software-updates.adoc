@@ -14,6 +14,14 @@ You can use the BlueXP software updates service to enable customers streamline O
 
 The BlueXP software updates service automates the assessment, planning, and execution processes. The intelligent upgrade advisor predicts which versions best fit the specific environment, recommending versions to remediate issues, improves efficiencies, and increases system security, allowing customers to determine the best option to meet their needs. Then it distributes the software package and automatically executes the automated non-distributive upgrade (ANDU), independent of support services. 
 
+== Required BlueXP access role
+BlueXP uses access roles to control user access to the software updates service. You must have one of the following roles to perform software updates service: Org admin, Folder or project admin, or Storage admin.
+
+Users with the Storage viewer role *cannot* perform software updates, but can only review and fix blockers, as well as download a software update plan.
+
+link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
+
+
 == Supported systems
 
 === ONTAP systems

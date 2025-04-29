@@ -12,6 +12,11 @@ summary: Understand about the new features and enhancements introduced in BlueXP
 Learn what’s new in BlueXP software updates.
 
 // tag::whats-new[]
+
+== 12 May 2025
+
+include::../_whatsnew/2025-05-12.adoc[]
+
 == 02 April 2025
 
 include::../_whatsnew/2025-04-02.adoc[]

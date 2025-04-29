@@ -13,7 +13,7 @@ After you have identified the ONTAP target version, fixed and acknowledged all t
 
 [NOTE]
 =====
-Supported roles: Organization admin, Folder or project admin, or Storage admin
+*Supported roles:* Organization admin, Folder or project admin, or Storage admin
 
 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
 =====

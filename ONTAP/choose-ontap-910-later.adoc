@@ -14,7 +14,7 @@ It is very important to compare and understand the benefits and risks associated
 
 [NOTE]
 =====
-*Supported roles:* Organization admin, Folder or project admin, Storage admin, or Storage viewer
+*Supported roles:* Organization admin, Folder or project admin, Storage admin, or System health specialist
 
 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
 =====

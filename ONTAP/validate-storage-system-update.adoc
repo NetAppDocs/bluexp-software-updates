@@ -11,6 +11,13 @@ summary: Validate the status of your ONTAP update to decide the next steps that 
 [.lead]
 You can use BlueXP software updates to validate the status of the ONTAP update.
 
+[NOTE]
+=====
+*Supported roles:* Organization admin, Folder or project admin, Storage admin, Storage viewer, or Storage Health Specialist
+
+link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
+=====
+
 .Steps
 
 . From the BlueXP left navigation, select *Health > Software updates*.

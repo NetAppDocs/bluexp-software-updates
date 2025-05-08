@@ -13,7 +13,7 @@ After you have identified the ONTAP target version for your ONTAP storage system
 
 [NOTE]
 =====
-*Supported roles:* Organization admin, Folder or project admin, Storage admin, or Storage viewer
+*Supported roles:* Organization admin, Folder or project admin, Storage admin, or Storage health specialist
 
 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
 =====

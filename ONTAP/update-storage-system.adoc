@@ -11,12 +11,8 @@ summary: Update your ONTAP storage system to take advantage of the new and enhan
 [.lead]
 After you have identified the ONTAP target version, fixed and acknowledged all the blockers, you can now initiate the update of your ONTAP storage system.
 
-[NOTE]
-=====
-*Supported roles:* Organization admin, Folder or project admin, Storage admin, or Storage health specialist
-
-link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
-=====
+.Required BlueXP role:
+Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
  
 

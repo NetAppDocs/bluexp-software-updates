@@ -12,12 +12,8 @@ summary: Understand the benefits and risks of the each ONTAP version before upgr
 
 It is very important to compare and understand the benefits and risks associated with the ONTAP target version before updating the ONTAP version for the storage system. 
 
-[NOTE]
-=====
-*Supported roles:* Organization admin, Folder or project admin, Storage admin, or System health specialist
-
-link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
-=====
+.Required BlueXP role:
+Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
 You can choose the target version and compare it with the current version to understand the benefits of updating to the specific version on ONTAP. You can also see the risks that will be resolved and the new risks (if any) that will arise on updating to the specific version of ONTAP.
 

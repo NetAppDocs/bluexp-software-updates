@@ -12,12 +12,8 @@ summary: Seamlessly update your ONTAP storage system to take advantage of the ne
 
 You can use the BlueXP software updates service to enable customers streamline ONTAP updates. This can help you reduce costs, accelerate critical workloads, and improve security.
 
-[NOTE]
-=====
-*Supported roles:* Organization admin, Folder or project admin, Storage admin, or Storage health specialist.
-
-link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.]
-=====
+.Required BlueXP role:
+Organization admin, Folder or project admin, Storage admin, Storage viewer, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
 The BlueXP software updates service automates the assessment, planning, and execution processes. The intelligent upgrade advisor predicts which versions best fit the specific environment, recommending versions to remediate issues, improves efficiencies, and increases system security, allowing customers to determine the best option to meet their needs. Then it distributes the software package and automatically executes the automated non-distributive upgrade (ANDU), independent of support services. 
 

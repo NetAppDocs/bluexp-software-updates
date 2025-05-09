@@ -12,7 +12,7 @@ summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to 
 After you have identified the ONTAP target version for your ONTAP storage system, you should fix and acknowledge all blockers and review the warnings before updating the ONTAP storage system.
 
 .Required BlueXP role:
-Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
+*Organization admin*, *Folder or project admin*, *Storage admin*, or *System health specialist*. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
 Fixing and acknowledging all blockers is mandatory and ensures a seamless software update process.
 

@@ -12,12 +12,13 @@ summary: Review the prerequisites and requirements before proceeding with your O
 
 You should review the prerequisites and requirements before proceeding with your ONTAP update. You can use BlueXP software updates to verify the readiness of your operational environment, login, network access, and web browser.
 
+.Required BlueXP role:
+Organization admin, Folder or project admin, Storage admin, Storage viewer, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
+
 To use BlueXP software updates, you should ensure that your environment meets all requirements.
 
-* A BlueXP organization is available.
 * A working environment is set up in BlueXP.
-* Administrator privileges are available to perform software update using System Manager.
-* Administrator credentials are available for the desired cluster while performing software update. 
+* Administrator credentials are available for the desired cluster while performing software update.
 * All the nodes in the cluster are sending AutoSupport data.
 * All nodes should be running on ONTAP 9.10 or later versions.
-* Nodes should not be in a MetroCluster configuration. 
+* Nodes should not be in a MetroCluster configuration.

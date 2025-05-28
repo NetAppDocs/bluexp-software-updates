@@ -11,6 +11,9 @@ summary: Fix ONTAP blockers and acknowledge warnings that are preventing you to 
 [.lead]
 After you have identified the ONTAP target version for your ONTAP storage system, you should fix and acknowledge all blockers and review the warnings before updating the ONTAP storage system.
 
+.Required BlueXP role:
+Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
+
 Fixing and acknowledging all blockers is mandatory and ensures a seamless software update process.
 
 .Steps
@@ -19,19 +22,19 @@ Fixing and acknowledging all blockers is mandatory and ensures a seamless softwa
 +
 The list of cluster that require an software update is displayed. 
 . Identify the ONTAP target version for your storage system. For information about identifying the ONTAP target version, see link:../ONTAP/choose-ontap-910-later.html[Compare ONTAP versions to understand benefits and risks using BlueXP software updates].
-. After you have decided on the ONTAP target version, click *Prepare for update* to initiate the update process.
+. After you have decided on the ONTAP target version, select *Prepare for update* to initiate the update process.
 +
 The list of blockers and warnings are displayed.
 . Select the blocker to view the instructions to fix the blocker.
 . Manually perform the steps provided to fix the blocker.
-. Select the blockers that have been fixed and click *Acknowledge selected* to acknowledge that that blockers have been fixed.
+. Select the blockers that have been fixed and select *Acknowledge selected* to acknowledge that that blockers have been fixed.
 
 NOTE: You must fix and acknowledge all the blockers to proceed with the update.
 
 [start=7]
-. Click *Warnings* tab to review the warnings before proceeding with the software update.
-. Click *Acknowledge* tab to view the blockers that have been fixed.
-. Click *Continue to update* to proceed with the update process.
+. Select *Warnings* tab to review the warnings before proceeding with the software update.
+. Select *Acknowledge* tab to view the blockers that have been fixed.
+. Select *Continue to update* to proceed with the update process.
 
 
 
